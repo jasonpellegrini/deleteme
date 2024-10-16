@@ -14,7 +14,7 @@
 int main(int argc,    // This is the number of things passed into this function.  
          char *argv[] // This is the array of things passed. 
         ){
-
+# Random comment
     int numRows;    /* Place holder for the number of rows    */ 
     int numCols;    /* Place holder for the number of columns */ 
     int imageSize;  /* Total number of pixels we will use     */ 

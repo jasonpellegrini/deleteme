@@ -1,6 +1,6 @@
 // File hello.c
 #include <stdio.h>
-
+# Test comment
 int main()
 {
   int i,j;
